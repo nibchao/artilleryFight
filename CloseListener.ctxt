@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=e
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment0.text=\r\n\ Method\ that\ makes\ the\ GUI\ window\ exit\r\n\ when\ the\ Quit\ Button\ is\ clicked.\r\n
+numComments=1

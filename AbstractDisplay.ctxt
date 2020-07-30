@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=obj\ comp\ g2
+comment0.target=void\ draw(java.lang.Object,\ java.awt.Component,\ java.awt.Graphics2D)
+comment0.text=\r\n\ Draw\ the\ given\ object.\ Subclasses\ should\ implement\ this\ method\ to\ draw\r\n\ the\ occupant\ facing\ North\ in\ a\ cell\ of\ size\ (1,1)\ centered\ around\ (0,0)\ on\r\n\ the\ drawing\ surface.\ (All\ scaling/rotating\ has\ been\ done\ beforehand).\r\n\ @param\ obj\ the\ occupant\ we\ want\ to\ draw\r\n\ @param\ comp\ the\ component\ on\ which\ to\ draw\r\n\ @param\ g2\ the\ graphics\ context\r\n
+comment1.params=obj\ comp\ g2\ rect
+comment1.target=void\ draw(java.lang.Object,\ java.awt.Component,\ java.awt.Graphics2D,\ java.awt.Rectangle)
+comment1.text=\r\n\ Draw\ the\ given\ object.\ Scales\ and\ rotates\ the\ coordinate\ appropriately\r\n\ then\ invokes\ the\ simple\ draw\ method\ above\ that\ is\ only\ responsible\ for\r\n\ drawing\ a\ unit-length\ occupant\ facing\ North.\r\n\ @param\ obj\ the\ occupant\ we\ want\ to\ draw\r\n\ @param\ comp\ the\ component\ on\ which\ to\ draw\r\n\ @param\ g2\ the\ graphics\ context\r\n\ @param\ rect\ rectangle\ in\ which\ to\ draw\r\n
+comment2.params=obj\ propertyName
+comment2.target=java.lang.Object\ getProperty(java.lang.Object,\ java.lang.String)
+numComments=3

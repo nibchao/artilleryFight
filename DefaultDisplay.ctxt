@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=obj\ comp\ g2\ rect
+comment0.target=void\ draw(java.lang.Object,\ java.awt.Component,\ java.awt.Graphics2D,\ java.awt.Rectangle)
+comment0.text=\r\n\ Draw\ the\ given\ object.\ This\ implementation\ draws\ a\ string\ with\r\n\ a\ background\ color.\ The\ background\ color\ is\ the\ value\r\n\ of\ the\ color\ property,\ or,\ if\ there\ is\ no\ such\ property\r\n\ and\ the\ object\ is\ an\ instance\ of\ Color,\ the\ object\ itself.\r\n\ The\ string\ is\ the\ text\ property,\ or\ if\ there\ is\ no\ such\r\n\ property,\ the\ result\ of\ calling\ toString.\ The\ string\r\n\ is\ clipped\ to\ 8\ characters.\r\n\ @param\ obj\ object\ we\ want\ to\ draw\r\n\ @param\ comp\ component\ on\ which\ to\ draw\r\n\ @param\ g2\ drawing\ surface\r\n\ @param\ rect\ rectangle\ in\ which\ to\ draw\r\n
+comment1.params=g2\ s\ rect\ fontHeight\ color
+comment1.target=void\ paintCenteredText(java.awt.Graphics2D,\ java.lang.String,\ java.awt.Rectangle,\ double,\ java.awt.Color)
+comment1.text=\r\n\ Paint\ a\ horizontally\ and\ vertically-centered\ text\ string.\r\n\ @param\ g2\ drawing\ surface\r\n\ @param\ s\ string\ to\ draw\ (centered)\r\n\ @param\ rect\ the\ bounding\ rectangle\r\n\ @param\ fontHeight\ the\ desired\ height\ of\ the\ font.\ (The\ font\ will\ be\r\n\ shrunk\ in\ increments\ of\ sqrt(2)/2\ if\ the\ text\ is\ too\ large.)\r\n\ @param\ color\ the\ color\ in\ which\ to\ draw\ the\ text\r\n
+numComments=2

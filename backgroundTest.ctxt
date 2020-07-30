@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\n\ Method\ that\ takes\ the\ image\ from\ the\ URL\ above\ and\ uses\ it\ as\ a\ background\ for\ the\ JPanel.\r\n
+comment2.params=pane
+comment2.target=void\ addComponents(java.awt.Container)
+comment2.text=\r\n\ Creates\ a\ container\ that\ then\ has\ the\ Play\ Button\r\n\ and\ Quit\ Button\ added\ to\ it.\r\n
+comment3.params=text\ container
+comment3.target=void\ addB(java.lang.String,\ java.awt.Container)
+comment3.text=\r\n\ Makes\ the\ Play\ Button\ and\ Quit\ Button\ aligned\ in\ the\ center\ of\ the\ GUI\ window,\r\n\ adds\ the\ buttons\ to\ the\ container,\ and\ creates\ blank\ pixel\ gaps\ between\ the\ two\ buttons.\r\n
+comment4.params=
+comment4.target=void\ createGUI()
+comment4.text=\r\n\ Runs\ the\ addComponents\ method\ which\ creates\ the\ game\ GUI.\r\n
+comment5.params=
+comment5.target=void\ makeVisible()
+comment5.text=\r\n\ Makes\ the\ GUI\ visible.\r\n
+comment6.params=
+comment6.target=void\ makeInvisible()
+comment6.text=\r\n\ Makes\ the\ GUI\ invisible.\r\n
+numComments=7

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=event
+comment0.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment0.text=\r\n\ Method\ where\ the\ runner\ class\ is\ called\ to\ create\ the\ Grid\ and\ sets\ the\ GUI\r\n\ window\ to\ become\ invisible.\r\n
+numComments=1
